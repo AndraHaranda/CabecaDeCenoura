@@ -5,7 +5,6 @@
 <p align='center'>
   Developer and systems analyst passionate about living deeply enjoying every second.
 </p>
-<p align='center'>ARAXÁ - MG</p>
 <p align="center">
     <ul>
         <li>⭐ I’m currently working on Zema Financeira.</li>
@@ -14,10 +13,6 @@
         <li>📫 Contact me: andraerleemharandaa@gmail.com</li>
     </ul>
      
-</p>
-
-<p align='center'>
-  "Did you say popcorn?"
 </p>
 
 <p align='center'>
@@ -41,7 +36,7 @@
 
 </p>
   
- <h2 align="center"><em>that's all, folks</em></h2>
+ <h2 align="center"><em>That's all, folks</em></h2>
 
 <!--
 **CabecaDeCenoura/CabecaDeCenoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
