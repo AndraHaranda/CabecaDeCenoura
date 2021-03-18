@@ -8,14 +8,17 @@
 <p align='center'>ARAXÁ - MG</p>
 <p align="center">
     <ul>
-        <li>🔭 I’m currently working on Zema Financeira</li>
-        <li>🌱 I’m currently learning React, Python and MySql and always improving my knowledge</li>
-        <li>📫 How to reach me: andraerleemharandaa@gmail.com</li>
+        <li>⭐ I’m currently working on Zema Financeira.</li>
+        <li>💻 Junior developer in Python, C # and JavaScript languages</li>
+        <li>💘 Passionate about the Geek universe, books, music, nature and especially technology</li>
+        <li>📫 Contact me: andraerleemharandaa@gmail.com</li>
     </ul>
      
 </p>
 
-
+<p align='center'>
+  "Did you say popcorn?"
+</p>
 
 <p align='center'>
   <br><br><br>
@@ -38,6 +41,7 @@
 
 </p>
   
+ <h2 align="center"><em>that's all, folks</em></h2>
 
 <!--
 **CabecaDeCenoura/CabecaDeCenoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
