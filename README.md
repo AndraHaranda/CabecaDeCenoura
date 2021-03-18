@@ -1,4 +1,4 @@
-### Hi there 👋 I'm CabecaDeCenoura 👩🏽‍🦰🥕💻
+### Hi there 🖖🏻 I'm CabecaDeCenoura 👩🏽‍🦰🥕💻
 
 
 <h2 align="center"><em>Andraerlem Haranda</em></h2>
