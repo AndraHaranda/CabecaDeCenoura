@@ -1,4 +1,43 @@
-### Hi there 👋
+### Hi there 👋 I'm CabecaDeCenoura 👩🏽‍🦰🥕💻
+
+
+<h2 align="center"><em>Andraerlem Haranda</em></h2>
+<p align='center'>
+  Developer and systems analyst passionate about living deeply enjoying every second.
+</p>
+<p align='center'>ARAXÁ - MG</p>
+<p align="center">
+    <ul>
+        <li>🔭 I’m currently working on Zema Financeira</li>
+        <li>🌱 I’m currently learning React, Python and MySql and always improving my knowledge</li>
+        <li>📫 How to reach me: andraerleemharandaa@gmail.com</li>
+    </ul>
+     
+</p>
+
+
+
+<p align='center'>
+  <br><br><br>
+  <!--Socials-->
+  <a href="https://www.linkedin.com/in/andraerlem-haranda-freitas-melo-36047616a/" target="_Blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>        
+  <a href="https://www.instagram.com/andra_cenoura/?hl=pt-br" target="_Blank">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    </a>
+  
+</p>
+<br><br><br>
+<!--Stats-->
+<p align='center'>
+  <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api?username=CabecaDeCenoura&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabecaDeCenoura&layout=compact" width="350"/></a>
+  
+    
+
+</p>
+  
 
 <!--
 **CabecaDeCenoura/CabecaDeCenoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
