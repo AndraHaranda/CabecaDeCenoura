@@ -8,7 +8,7 @@
 <p align="center">
     <ul>
         <li>⭐ I’m currently working on Zema Financeira.</li>
-        <li>💻 Junior developer in Python, C # and JavaScript languages</li>
+        <li>💻 Junior developer in Python, C# and JavaScript languages</li>
         <li>💘 Passionate about the Geek universe, books, music, nature and especially technology</li>
         <li>📫 Contact me: andraerleemharandaa@gmail.com</li>
     </ul>
