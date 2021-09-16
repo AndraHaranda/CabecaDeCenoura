@@ -1,5 +1,7 @@
 ### Hi there 🖖🏻 I'm CabecaDeCenoura 👩🏽‍🦰🥕💻
 
+![Andraerlem haranda](https://user-images.githubusercontent.com/40477620/133611481-2f9dc099-f749-48d9-9f2e-45f5f43460eb.png)
+
 
 <h2 align="center"><em>Andraerlem Haranda</em></h2>
 <p align='center'>
