@@ -22,13 +22,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>        
   <a href="https://www.instagram.com/andra_cenoura/?hl=pt-br" target="_Blank">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a>
-   <a href="https://open.spotify.com/user/andraerleemharandaa" target="_Blank">
-      <img src="https://w7.pngwing.com/pngs/598/553/png-transparent-computer-icons-spotify-graphics-streaming-media-spotify-icon-logo-grass-feather.png" />        
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />              
     </a>
 </p>
-<br>
+<br><br>
 
 ### Linguagens e Ferramentas:
 
@@ -40,15 +37,13 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<br>
+<br><br>
 
-<br>
 <!--Stats-->
 <p align='center'>
   <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api?username=CabecaDeCenoura&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabecaDeCenoura&layout=compact" width="350"/></a>
 </p>
 
-                                                                                                                                                <br>
  <h2 align="center"><em>That's all, folks</em></h2>
 
