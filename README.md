@@ -28,13 +28,22 @@
 
 ### Linguagens e Ferramentas:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=flat-square&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)
+![CSharp](https://img.shields.io/badge/-C#-%232c3e50?style=flat-square&logo=Csharp)
+![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node-dot-js)
+
+![ReactNative](https://img.shields.io/badge/-React%20Native-%232c3e50?style=flat-square&logo=react)
+![NestJs](https://img.shields.io/badge/-NestJs-%232c3e50?style=flat-square&logo=nestjs)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=Expressjs)
+![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
+
+![SqlServer](https://img.shields.io/badge/-SQLServer-%232c3e50?style=flat-square&logo=SQLServer)
+![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
+![Jupyter](https://img.shields.io/badge/-JupyterLab-%232c3e50?style=flat-square&logo=jupiter)
+
 <br><br>
 
 <!--Stats-->
