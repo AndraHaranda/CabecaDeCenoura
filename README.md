@@ -6,10 +6,10 @@
 </p>
 <p align="center">
     <ul>
-      <li>💻 Atualmente trabalho na Bit Pagg como desenvolvedora.</li>
-      <li>💘 Apaixonada pela vida, música, natureza e principalmente tecnologia</li>
-      <li>💞 Ah! Apaixonada por animes e séries também!! =D
-      <li>📫 Entre em contato: andraerleemharandaa@gmail.com</li>
+      <li><h4>💻 Atualmente trabalho na Bit Pagg como desenvolvedora.</h4></li>
+      <li><h4>💘 Apaixonada pela vida, música, natureza e principalmente tecnologia</h4></li>
+      <li><h4>💞 Ah! Apaixonada por animes e séries também!! =D </h4></li>
+      <li><h4>📫 Entre em contato: andraerleemharandaa@gmail.com</h4></li>
     </ul>
 </p>
 <br>
