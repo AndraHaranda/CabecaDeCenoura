@@ -6,10 +6,10 @@
 </p>
 <p align="center">
     <ul>
-      <li><h4>💻 Atualmente trabalho na Bit Pagg como desenvolvedora.</h4></li>
-      <li><h4>💘 Apaixonada pela vida, música, natureza e principalmente tecnologia</h4></li>
-      <li><h4>💞 Ah! Apaixonada por animes e séries também!! =D </h4></li>
-      <li><h4>📫 Entre em contato: andraerleemharandaa@gmail.com</h4></li>
+      <li>💻 Atualmente trabalho na Bit Pagg como desenvolvedora.</li>
+      <li>💘 Apaixonada pela vida, música, natureza e principalmente tecnologia</li>
+      <li>💞 Ah! Apaixonada por animes e séries também!! =D </li>
+      <li>📫 Entre em contato: andraerleemharandaa@gmail.com<</li>
     </ul>
 </p>
 <br>
@@ -49,6 +49,6 @@
   <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabecaDeCenoura&layout=compact" width="500"/></a>
 </p>
 
-<br><br><br>
+<br><br>
  <h2 align="center"><em>That's all, folks</em></h2>
 
