@@ -28,18 +28,16 @@
 
 ### Linguagens e Ferramentas:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=flat-square&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)
 ![CSharp](https://img.shields.io/badge/-CSharp-%232c3e50?style=flat-square&logo=Csharp)
-![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=Node)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=flat-square&logo=TypeScript)
+![Node](https://img.shields.io/badge/-NodeJS-%232c3e50?style=flat-square&logo=NodeJS)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-%232c3e50?style=flat-square&logo=react)
 ![NestJs](https://img.shields.io/badge/-NestJs-%232c3e50?style=flat-square&logo=nestjs)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=ExpressJs)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=ExpressJS)
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-%232c3e50?style=flat-square&logo=Jupyter)
@@ -48,8 +46,8 @@
 
 <!--Stats-->
 <p align='center'>
-  <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api?username=CabecaDeCenoura&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabecaDeCenoura&layout=compact" width="350"/></a>
+  <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api?username=CabecaDeCenoura&show_icons=true&count_private=true&theme=dark" width="500"></a>
+  <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabecaDeCenoura&layout=compact" width="500"/></a>
 </p>
 
 <br><br><br>
