@@ -32,15 +32,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=flat-square&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)
 ![CSharp](https://img.shields.io/badge/-CSharp-%232c3e50?style=flat-square&logo=Csharp)
-![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node-dot-js)
+![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=Node)
 
 ![ReactNative](https://img.shields.io/badge/-React%20Native-%232c3e50?style=flat-square&logo=react)
 ![NestJs](https://img.shields.io/badge/-NestJs-%232c3e50?style=flat-square&logo=nestjs)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=Expressjs)
-![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-%232c3e50?style=flat-square&logo=ExpressJs)
+![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
 
-![SqlServer](https://img.shields.io/badge/-SQLServer-%232c3e50?style=flat-square&logo=SQLServer)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-%232c3e50?style=flat-square&logo=Jupyter)
 
@@ -52,6 +52,6 @@
   <a href="#"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabecaDeCenoura&layout=compact" width="350"/></a>
 </p>
 
-<br><br><br><br><br><br>
+<br><br><br>
  <h2 align="center"><em>That's all, folks</em></h2>
 
