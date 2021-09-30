@@ -9,7 +9,7 @@
       <li>💻 Atualmente trabalho na Bit Pagg como desenvolvedora.</li>
       <li>💘 Apaixonada pela vida, música, natureza e principalmente tecnologia</li>
       <li>💞 Ah! Apaixonada por animes e séries também!! =D </li>
-      <li>📫 Entre em contato: andraerleemharandaa@gmail.com<</li>
+      <li>📫 Entre em contato: andraerleemharandaa@gmail.com</li>
     </ul>
 </p>
 <br>
