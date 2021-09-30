@@ -31,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=flat-square&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)
-![CSharp](https://img.shields.io/badge/-C#-%232c3e50?style=flat-square&logo=Csharp)
+![CSharp](https://img.shields.io/badge/-CSharp-%232c3e50?style=flat-square&logo=Csharp)
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node-dot-js)
 
 ![ReactNative](https://img.shields.io/badge/-React%20Native-%232c3e50?style=flat-square&logo=react)
@@ -42,7 +42,7 @@
 
 ![SqlServer](https://img.shields.io/badge/-SQLServer-%232c3e50?style=flat-square&logo=SQLServer)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
-![Jupyter](https://img.shields.io/badge/-JupyterLab-%232c3e50?style=flat-square&logo=jupiter)
+![Jupyter](https://img.shields.io/badge/-Jupyter-%232c3e50?style=flat-square&logo=Jupyter)
 
 <br><br>
 
