@@ -2,13 +2,13 @@
 
 <h2 align="center"><em>Andraerlem Haranda</em></h2>
 <p align='center'>
-  Sou desenvolvedora e analista de sistemas apaixonada por viver profundamente aproveitando cada segundo para aprender e enfrentar novos desafios.
+  Analista de Sistema e estudante DEV, muito apaixonada por viver profundamente aproveitando cada segundo para aprender e enfrentar novos desafios.
 </p>
 <p align="center">
     <ul>
-      <li>💻 Atualmente trabalho na Bit Pagg como desenvolvedora.</li>
+      <li>💻 Atualmente trabalho na Bit Pagg.</li>
       <li>💘 Apaixonada pela vida, música, natureza e principalmente tecnologia</li>
-      <li>💞 Ah! Apaixonada por animes e séries também!! =D </li>
+      <li>💞 Ah! Apaixonada por animes e séries também!! 😁</li>
       <li>📫 Entre em contato: andraerleemharandaa@gmail.com</li>
     </ul>
 </p>
