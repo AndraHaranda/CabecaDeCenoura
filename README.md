@@ -43,7 +43,7 @@
   <br><br>
   <a href="(https://github.com/CabecaDeCenoura)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CabecaDeCenoura&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabecaDeCenoura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabecaDeCenoura&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br><br>
