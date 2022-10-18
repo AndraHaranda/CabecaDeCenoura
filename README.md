@@ -24,18 +24,22 @@
     </a>
 </p>
 
+##
 
-![CSharp](https://img.shields.io/badge/-CSharp-%232c3e50?style=flat-square&logo=Csharp)
-![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
-![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter-%232c3e50?style=flat-square&logo=Jupyter)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=flat-square&logo=TypeScript)
-![NodeJs](https://img.shields.io/badge/-NodeJs-%232c3e50?style=flat-square&logo=NodeJs)
-![ReactNative](https://img.shields.io/badge/-React%20Native-%232c3e50?style=flat-square&logo=react)
-![ExpressJs](https://img.shields.io/badge/-ExpressJs-%232c3e50?style=flat-square&logo=ExpressJs)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=flat-square&logo=Bootstrap)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Andra-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Andra-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Andra-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Andra-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Andra-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="Andra-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Andra-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Andra-pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="Andra-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" alt="Andra-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img align="center" alt="Andra-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
+</div>
+
 
 
 
